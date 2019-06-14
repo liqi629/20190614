@@ -119,6 +119,7 @@ class TestDesigner:
         msg = DesignerPage(class_home[0]).toast_text()
         assert msg in dd.toast_pubing
     #运行工作流脚本
+    @pytest.mark.skip
     def test_16_work_flow(self,class_home):
         #操作步骤：直接打开工作流网址，运行，断言
         class_home[0].get(dd.work_flow_url)
