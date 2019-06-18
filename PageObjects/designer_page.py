@@ -6,7 +6,7 @@
 # @Software : PyCharm
 from Common.BasePage import BasePage
 from PageLocators.designerPage_locator import DesignerPageLocator as loc
-
+from TestDatas import designer_datas as dd
 from Common.do_mysql import DoMysql
 import logging
 from Common import logger
@@ -388,8 +388,10 @@ class DesignerPage(BasePage):
             time.sleep(5)
     #切换作业
     def switch_job(self):
-        self.wait_eleVisible(loc.select_job_mysql)
-        self.click_element(loc.select_job_mysql)
+        self.wait_eleVisible(loc.select_job)
+        self.click_element(loc.select_job)
+        # self.wait_eleVisible(loc.select_job_mysql)
+        # self.click_element(loc.select_job_mysql)
         self.wait_eleVisible(loc.select_job_text)
         self.click_element(loc.select_job_text)
     #判断作业是否切换成功
@@ -409,6 +411,14 @@ class DesignerPage(BasePage):
         self.select_job(loc.not_delete_job)
         self.wait_eleVisible(loc.publish_button)
         self.click_element(loc.publish_button)
+    #判断作业是否发布成功
+    def is_publish(self):
+        try:
+            self.wait_eleVisible(loc.toast_pub_success)
+            return True
+        except:
+            return False
+
     #判断取消的toast
     def is_unpublish(self):
         pass

@@ -49,15 +49,17 @@ class DesignerPageLocator:
     #新建作业成功/名称重复toast提示//div[@class="toast-message"]，下面的toast 共用
     job_toast = (By.XPATH, '//div[@class="toast-message"]')
     #发布成功toast
-    toast_pub_success = (By.XPATH,'')
+    toast_pub_success = (By.XPATH,'//div[text()="发布成功"]')
     #取消发布成功toast
     toast_pub_cancel = (By.XPATH, '')
     #重复发布tosat
     toast_pub_re = (By.XPATH, '')
     #作业窗口=========================================================================================
-    #作业：not_delete
-    select_job_mysql = (By.XPATH,'//div[@class="pull-left session"]//span[text()="not_delete"]')
-    #作业：MySQL_text
+    #作业窗口的下拉按钮
+    select_job = (By.XPATH,'//div[@class="select pull-right"]//span[@class="select2-selection__arrow"]')
+    #切换作业：not_delete_mysql
+    select_job_mysql = (By.XPATH,'//li[text()="not_delete_mysql"]')
+    #切换作业：MySQL_text
     select_job_text = (By.XPATH, ' // li[text() = "MySQL_text"]')
 
     #作业========================================================================
@@ -66,7 +68,7 @@ class DesignerPageLocator:
     #作业：MySQL_text目标文件源
     text_name = (By.XPATH,'//span[text()="自动化测试目标文件源一"]')
     #作业：not_delete job
-    not_delete_job = (By.XPATH, '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+    not_delete_job = (By.XPATH, '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
     # 作业========================================================================
 
 
@@ -143,7 +145,7 @@ class DesignerPageLocator:
 
 
     #工作流==================================================================================================
-    #作业 not_delete的工作流
+    #作业 的工作流
     work_flow = (By.XPATH,'//span[text()="工作流"]')
     #添加工作流按钮
     add_work_folw_btn = (By.XPATH,'//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')

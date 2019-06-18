@@ -1,0 +1,20 @@
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="name"]')
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="name"]')
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="name"]')中输入文本：auto_test_2
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="inputPassword"]')
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="inputPassword"]')中输入文本：123456
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="login"]')
+Tue, 18 Jun 2019 10:28:54-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="login"]')点击事件
+Tue, 18 Jun 2019 10:28:57-INFO-BasePage.py-switch_alert-[line:179]未弹出alert
+Tue, 18 Jun 2019 10:28:58-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Tue, 18 Jun 2019 10:28:58-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.07：以秒为单位
+Tue, 18 Jun 2019 10:28:58-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Tue, 18 Jun 2019 10:28:59-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')点击事件
+Tue, 18 Jun 2019 10:28:59-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Tue, 18 Jun 2019 10:28:59-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Tue, 18 Jun 2019 10:28:59-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Tue, 18 Jun 2019 10:28:59-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Tue, 18 Jun 2019 10:29:00-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[text()="发布成功"]')
+Tue, 18 Jun 2019 10:29:30-ERROR-BasePage.py-wait_eleVisible-[line:39]等待元素可见失败。
+Tue, 18 Jun 2019 10:29:30-INFO-BasePage.py-save_webImgs-[line:142]截屏成功,图片路径为D:\YOYO\auto_web_echo_v1\TestResult\imgs/None_2019-06-18-10-29-30.png

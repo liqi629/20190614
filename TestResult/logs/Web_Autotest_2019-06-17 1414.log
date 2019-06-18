@@ -1,0 +1,461 @@
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="name"]')
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.05：以秒为单位
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="name"]')
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="name"]')中输入文本：auto_test_2
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="inputPassword"]')
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="inputPassword"]')中输入文本：123456
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="login"]')
+Mon, 17 Jun 2019 14:14:20-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="login"]')点击事件
+Mon, 17 Jun 2019 14:14:24-INFO-BasePage.py-switch_alert-[line:179]未弹出alert
+Mon, 17 Jun 2019 14:14:25-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:25-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.07：以秒为单位
+Mon, 17 Jun 2019 14:14:25-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:25-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//img[@id="addBgBac"]')点击事件
+Mon, 17 Jun 2019 14:14:25-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-clear_input_text-[line:96]None：清除元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="bisName"]')中输入文本：
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btnBusinessAdd"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btnBusinessAdd"]')点击事件
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:26-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:业务名称不能为空!
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//img[@id="addBgBac"]')点击事件
+Mon, 17 Jun 2019 14:14:27-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-clear_input_text-[line:96]None：清除元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="bisName"]')中输入文本：auto_test_2222
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btnBusinessAdd"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btnBusinessAdd"]')点击事件
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.01：以秒为单位
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:14:28-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:业务添加成功!
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//img[@id="addBgBac"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//img[@id="addBgBac"]')点击事件
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-clear_input_text-[line:96]None：清除元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="bisName"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="bisName"]')中输入文本：auto_test_2222
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btnBusinessAdd"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btnBusinessAdd"]')点击事件
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:作业名称重复，请重新修改
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.06：以秒为单位
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="auto_test_2222"]')点击事件
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="数据源"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="数据源"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="数据源"]')点击事件
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="添加"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="添加"]')
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="添加"]')点击事件
+Mon, 17 Jun 2019 14:14:30-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[@id="dataTree_1_switch"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[@id="dataTree_1_switch"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[@id="dataTree_1_switch"]')点击事件
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="MySQL"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="MySQL"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="MySQL"]')点击事件
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-db-type"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-db-type"]')
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-db-type"]')点击事件
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-switch_window-[line:201]切换到最新打开的窗口
+Mon, 17 Jun 2019 14:14:31-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')
+Mon, 17 Jun 2019 14:14:32-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长1.04：以秒为单位
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')点击事件
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="sourceName"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="sourceName"]')中输入文本：自动化测试数据源一
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="ip"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="ip"]')中输入文本：172.16.12.28
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="port"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="port"]')中输入文本：3306
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="userName"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="userName"]')中输入文本：root
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="passWord"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="passWord"]')中输入文本：root
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="dbName"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="dbName"]')中输入文本：echod
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//a[@id="test-connect"]')
+Mon, 17 Jun 2019 14:14:33-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//form[@name="sameTOMysqlDriver"]//a[@id="test-connect"]')点击事件
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="连接成功"]')
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@data-name="AUTO_test_01"]')
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@data-name="AUTO_test_01"]')
+Mon, 17 Jun 2019 14:14:34-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//input[@data-name="AUTO_test_01"]')点击事件
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:35-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:36-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[text()="确定"]')
+Mon, 17 Jun 2019 14:14:36-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:36-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="确定"]')
+Mon, 17 Jun 2019 14:14:36-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="确定"]')点击事件
+Mon, 17 Jun 2019 14:14:38-INFO-BasePage.py-switch_window-[line:206]切换到第一个窗口
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="保存"]')
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="保存"]')
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="保存"]')点击事件
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-relation-add"]')
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-relation-add"]')
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-relation-add"]')点击事件
+Mon, 17 Jun 2019 14:14:39-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[text()="更新映射成功"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="auto_test_2222"]')点击事件
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="目标"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="目标"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="目标"]')点击事件
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="添加"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="添加"]')
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="添加"]')点击事件
+Mon, 17 Jun 2019 14:14:40-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[@id="dataTree_1_switch"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.55：以秒为单位
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[@id="dataTree_1_switch"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[@id="dataTree_1_switch"]')点击事件
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="MySQL"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="MySQL"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="MySQL"]')点击事件
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-db-type"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-db-type"]')
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-db-type"]')点击事件
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-switch_window-[line:201]切换到最新打开的窗口
+Mon, 17 Jun 2019 14:14:41-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')
+Mon, 17 Jun 2019 14:14:43-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长2.09：以秒为单位
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//form[@name="sameTOMysqlDriver"]//button[@id="addSource"]')点击事件
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="sourceName"]')
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="sourceName"]')中输入文本：自动化测试目标源一
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="ip"]')
+Mon, 17 Jun 2019 14:14:44-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="ip"]')中输入文本：172.16.12.28
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="port"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="port"]')中输入文本：3306
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="userName"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="userName"]')中输入文本：root
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="passWord"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="passWord"]')中输入文本：root
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="dbName"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//form[@name="sameTOMysqlDriver"]//input[@id="dbName"]')中输入文本：echod
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//form[@name="sameTOMysqlDriver"]//a[@id="test-connect"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//form[@name="sameTOMysqlDriver"]//a[@id="test-connect"]')点击事件
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="连接成功"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@data-name="AUTO_test_02"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@data-name="AUTO_test_02"]')
+Mon, 17 Jun 2019 14:14:45-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//input[@data-name="AUTO_test_02"]')点击事件
+Mon, 17 Jun 2019 14:14:46-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:46-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:47-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:47-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:47-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="下一步"]')
+Mon, 17 Jun 2019 14:14:47-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="下一步"]')点击事件
+Mon, 17 Jun 2019 14:14:48-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[text()="确定"]')
+Mon, 17 Jun 2019 14:14:48-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:48-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[text()="确定"]')
+Mon, 17 Jun 2019 14:14:48-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[text()="确定"]')点击事件
+Mon, 17 Jun 2019 14:14:49-INFO-BasePage.py-switch_window-[line:206]切换到第一个窗口
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="保存"]')
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="保存"]')
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="保存"]')点击事件
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-relation-add"]')
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-relation-add"]')
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-relation-add"]')点击事件
+Mon, 17 Jun 2019 14:14:50-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[text()="更新映射成功"]')
+Mon, 17 Jun 2019 14:14:51-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.55：以秒为单位
+Mon, 17 Jun 2019 14:15:01-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:15:01-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:01-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:15:01-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="auto_test_2222"]')点击事件
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="auto_test_2222"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' //span[text()="auto_test_2222"]')点击事件
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[@class="fa fa-edit btn-edit-business"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[@class="fa fa-edit btn-edit-business"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[@class="fa fa-edit btn-edit-business"]')点击事件
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="editBus"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="editBus"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-clear_input_text-[line:96]None：清除元素：('xpath', '//input[@id="editBus"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="editBus"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="editBus"]')中输入文本：auto_test_2223
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-edit"]')
+Mon, 17 Jun 2019 14:15:02-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-edit"]')点击事件
+Mon, 17 Jun 2019 14:15:03-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2223"]')
+Mon, 17 Jun 2019 14:15:03-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2223"]')
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' //span[text()="auto_test_2223"]')
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-hover_element-[line:71]None:元素：('xpath', ' //span[text()="auto_test_2223"]')鼠标悬停事件
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[@class="fa fa-trash btn-del-business"]')
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[@class="fa fa-trash btn-del-business"]')
+Mon, 17 Jun 2019 14:15:13-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[@class="fa fa-trash btn-del-business"]')点击事件
+Mon, 17 Jun 2019 14:15:16-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-delete"]')
+Mon, 17 Jun 2019 14:15:16-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:16-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-delete"]')
+Mon, 17 Jun 2019 14:15:16-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-delete"]')点击事件
+Mon, 17 Jun 2019 14:15:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' //span[text()="auto_test_2223"]')
+Mon, 17 Jun 2019 14:15:21-ERROR-BasePage.py-wait_eleVisible-[line:39]等待元素可见失败。
+Mon, 17 Jun 2019 14:15:21-INFO-BasePage.py-save_webImgs-[line:142]截屏成功,图片路径为D:\YOYO\auto_web_echo_v1\TestResult\imgs/None_2019-06-17-14-15-21.png
+Mon, 17 Jun 2019 14:15:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:21-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:21-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:15:22-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:22-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:22-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:22-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:15:24-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 14:15:24-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:24-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 14:15:24-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="本地运行"]')点击事件
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:29-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:15:31-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="分布运行"]')
+Mon, 17 Jun 2019 14:15:31-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:31-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="分布运行"]')
+Mon, 17 Jun 2019 14:15:31-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="分布运行"]')点击事件
+Mon, 17 Jun 2019 14:15:37-INFO-remote.py-cmd-[line:41]准备建立连接
+Mon, 17 Jun 2019 14:15:37-INFO-transport.py-_log-[line:1746]Connected (version 2.0, client OpenSSH_5.3)
+Mon, 17 Jun 2019 14:15:38-INFO-transport.py-_log-[line:1746]Authentication (password) successful!
+Mon, 17 Jun 2019 14:15:38-INFO-remote.py-cmd-[line:47]准备执行命令:> /user/liqitest/auto_text_01
+Mon, 17 Jun 2019 14:15:38-INFO-remote.py-cmd-[line:49]
+Mon, 17 Jun 2019 14:15:38-INFO-remote.py-cmd-[line:52]连接已经关闭
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')点击事件
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:38-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:15:40-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 14:15:40-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:40-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 14:15:40-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="本地运行"]')点击事件
+Mon, 17 Jun 2019 14:15:45-INFO-transport.py-_log-[line:1746]Connected (version 2.0, client OpenSSH_5.3)
+Mon, 17 Jun 2019 14:15:45-INFO-transport.py-_log-[line:1746]Authentication (password) successful!
+Mon, 17 Jun 2019 14:15:45-INFO-sftp.py-_log-[line:158][chan 0] Opened sftp connection (server version 3)
+Mon, 17 Jun 2019 14:15:45-INFO-remote.py-get_file-[line:33]远程文件已经下载到本地
+Mon, 17 Jun 2019 14:15:46-INFO-remote.py-cmd-[line:41]准备建立连接
+Mon, 17 Jun 2019 14:15:46-INFO-transport.py-_log-[line:1746]Connected (version 2.0, client OpenSSH_5.3)
+Mon, 17 Jun 2019 14:15:46-INFO-transport.py-_log-[line:1746]Authentication (password) successful!
+Mon, 17 Jun 2019 14:15:46-INFO-remote.py-cmd-[line:47]准备执行命令:> /user/liqitest/auto_text_01
+Mon, 17 Jun 2019 14:15:46-INFO-remote.py-cmd-[line:49]
+Mon, 17 Jun 2019 14:15:46-INFO-remote.py-cmd-[line:52]连接已经关闭
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@class="level0 "]//span[text()="MySQL_text"]')点击事件
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:15:46-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:15:48-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="分布运行"]')
+Mon, 17 Jun 2019 14:15:48-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:48-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="分布运行"]')
+Mon, 17 Jun 2019 14:15:48-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="分布运行"]')点击事件
+Mon, 17 Jun 2019 14:15:53-INFO-transport.py-_log-[line:1746]Connected (version 2.0, client OpenSSH_5.3)
+Mon, 17 Jun 2019 14:15:53-INFO-transport.py-_log-[line:1746]Authentication (password) successful!
+Mon, 17 Jun 2019 14:15:53-INFO-sftp.py-_log-[line:158][chan 0] Opened sftp connection (server version 3)
+Mon, 17 Jun 2019 14:15:53-INFO-remote.py-get_file-[line:33]远程文件已经下载到本地
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="pull-left session"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="pull-left session"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//div[@class="pull-left session"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', ' // li[text() = "MySQL_text"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', ' // li[text() = "MySQL_text"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', ' // li[text() = "MySQL_text"]')点击事件
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="自动化测试目标文件源一"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.05：以秒为单位
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="取消发布"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="取消发布"]')
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="取消发布"]')点击事件
+Mon, 17 Jun 2019 14:15:54-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:16:24-ERROR-BasePage.py-wait_eleVisible-[line:39]等待元素可见失败。
+Mon, 17 Jun 2019 14:16:25-INFO-BasePage.py-save_webImgs-[line:142]截屏成功,图片路径为D:\YOYO\auto_web_echo_v1\TestResult\imgs/None_2019-06-17-14-16-24.png
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="取消发布"]')
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="取消发布"]')
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="取消发布"]')点击事件
+Mon, 17 Jun 2019 14:16:35-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:06-ERROR-BasePage.py-wait_eleVisible-[line:39]等待元素可见失败。
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-save_webImgs-[line:142]截屏成功,图片路径为D:\YOYO\auto_web_echo_v1\TestResult\imgs/None_2019-06-17-14-17-06.png
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.06：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:映射保存失败：保存映射，更新源信息失败：10786
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.05：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:17:07-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:映射保存失败：保存映射，更新源信息失败：10786
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:映射保存失败：保存映射，更新源信息失败：10786
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:18-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.55：以秒为单位
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-hover_element-[line:71]None:元素：('xpath', '//span[text()="工作流"]')鼠标悬停事件
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')点击事件
+Mon, 17 Jun 2019 14:17:19-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="workflow-name"]')
+Mon, 17 Jun 2019 14:17:20-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:17:20-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="workflow-name"]')
+Mon, 17 Jun 2019 14:17:20-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="workflow-name"]')中输入文本：test_work_flow_01
+Mon, 17 Jun 2019 14:17:20-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@class="btn btn-primary btn-workflow-add"]')
+Mon, 17 Jun 2019 14:17:20-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@class="btn btn-primary btn-workflow-add"]')点击事件
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="工作流"]')点击事件
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="test_work_flow_01"]')
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-hover_element-[line:71]None:元素：('xpath', '//span[text()="工作流"]')鼠标悬停事件
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo_1_ul"]//span[text()="添加"]')点击事件
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="workflow-name"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="workflow-name"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="workflow-name"]')中输入文本：test_work_flow_01
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@class="btn btn-primary btn-workflow-add"]')
+Mon, 17 Jun 2019 14:17:22-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@class="btn btn-primary btn-workflow-add"]')点击事件
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.01：以秒为单位
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:该名称已存在!
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')
+Mon, 17 Jun 2019 14:17:23-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete"]')点击事件
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="工作流"]')
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="工作流"]')点击事件
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="test_work_flow_01"]')
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-hover_element-[line:71]None:元素：('xpath', '//span[text()="test_work_flow_01"]')鼠标悬停事件
+Mon, 17 Jun 2019 14:17:24-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="test_work_flow_01"]//parent::a//span[text()="删除"]')
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.53：以秒为单位
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="test_work_flow_01"]//parent::a//span[text()="删除"]')
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="test_work_flow_01"]//parent::a//span[text()="删除"]')点击事件
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//a[@id="btn-workflow-delete"]')
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.54：以秒为单位
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="btn-workflow-delete"]')
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="btn-workflow-delete"]')点击事件
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="test_work_flow_01"]')
+Mon, 17 Jun 2019 14:17:25-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位

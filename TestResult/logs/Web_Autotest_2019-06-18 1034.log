@@ -1,0 +1,24 @@
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="name"]')
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="name"]')
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="name"]')中输入文本：auto_test_2
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="inputPassword"]')
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="inputPassword"]')中输入文本：123456
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="login"]')
+Tue, 18 Jun 2019 10:34:59-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="login"]')点击事件
+Tue, 18 Jun 2019 10:35:03-INFO-BasePage.py-switch_alert-[line:179]未弹出alert
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.07：以秒为单位
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')点击事件
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//div[@class="toast-message"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//div[@class="toast-message"]')
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-get_text-[line:109]None:获取元素:('xpath', '//div[@class="toast-message"]')的文本内容
+Tue, 18 Jun 2019 10:35:06-INFO-BasePage.py-get_text-[line:112]None:元素:('xpath', '//div[@class="toast-message"]')的文本内容为:该作业已经发布，请取消发布之后在发布.

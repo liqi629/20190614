@@ -64,24 +64,24 @@ class TestDesigner:
     #本地运行作业:mysql-mysql，数据库查询结果
     def test_8_run_job_local(self,class_home):
         #操作步骤:发布，运行，查询表1、2，对比表2与表1，清空表2内容
-        DoMysql().deletc_data()
+        DoMysql().deletc_data(dd.sql_delete_t2)
         DesignerPage(class_home[0]).run_job('local')
-        res = DoMysql().select_table_2()
-        assert DoMysql().select_table_1()==res
+        res = DoMysql().do_mysql(dd.select_table_2)
+        assert DoMysql().do_mysql(dd.select_table_1)==res
     #分布式运行作业:mysql-mysql，
     def test_9_run_job_distributed(self,class_home):
         #操作步骤:发布，运行，查询表1、2，对比表2与表1，清空表2内容
-        DoMysql().deletc_data()
+        DoMysql().deletc_data(dd.sql_delete_t2)
         DesignerPage(class_home[0]).run_job('no_local')
-        res = DoMysql().select_table_2()
-        assert DoMysql().select_table_1()==res
+        res = DoMysql().do_mysql(dd.select_table_2)
+        assert DoMysql().do_mysql(dd.select_table_1)==res
     #本地运行作业:mysql-file，数据库查询结果
     def test_10_run_job_mysql_text_local(self,class_home):
         #操作步骤:清楚目标文本内容,运行,下载目标文件，读取目标文件name，读取数据库表name，断言
         Remote().cmd(dd.remote_ip,dd.remote_port,dd.remote_username,dd.remote_pwd,dd.delete_cmd)
         DesignerPage(class_home[0]).run_job_MySQL_text('local')
         Remote().get_file(dd.remote_ip,dd.remote_port,dd.remote_username,dd.remote_pwd,dd.remote_dir,dir_config.ftp_auto_text_01)
-        mysql_name = DoMysql().select_table_1()
+        mysql_name = DoMysql().do_mysql(dd.select_table_1)
         assert DoFile().get_file_name()==mysql_name[0][1]
 
     # 分布式运行作业:mysql-file，数据库查询结果，数据库查询部分需要优化，分离sql语句
@@ -90,7 +90,7 @@ class TestDesigner:
         Remote().cmd(dd.remote_ip,dd.remote_port,dd.remote_username,dd.remote_pwd,dd.delete_cmd)
         DesignerPage(class_home[0]).run_job_MySQL_text('no_local')
         Remote().get_file(dd.remote_ip,dd.remote_port,dd.remote_username,dd.remote_pwd,dd.remote_dir,dir_config.ftp_auto_text_01)
-        mysql_name = DoMysql().select_table_1()
+        mysql_name = DoMysql().do_mysql(dd.select_table_1)
         assert DoFile().get_file_name()==mysql_name[0][1]
 
     #切换作业窗口
@@ -109,15 +109,14 @@ class TestDesigner:
     def test_14_pub(self,class_home):
         #操作步骤
         DesignerPage(class_home[0]).publish()
-        msg = DesignerPage(class_home[0]).toast_text()
-        assert msg in dd.toast_pubing
+        assert DesignerPage(class_home[0]).is_publish()==True
     #重复发布
     @pytest.mark.flaky(reruns=1, reruns_delay=10)
     def test_15_same_pub(self,class_home):
         # 操作步骤
         DesignerPage(class_home[0]).publish()
         msg = DesignerPage(class_home[0]).toast_text()
-        assert msg in dd.toast_pubing
+        assert msg in dd.toast_pub_re
     #运行工作流脚本
     @pytest.mark.skip
     def test_16_work_flow(self,class_home):

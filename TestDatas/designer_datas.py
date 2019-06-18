@@ -12,12 +12,14 @@ job_new_name = "auto_test_2223"
 none_tosat = "业务名称不能为空!"
 sucess_toast = "业务添加成功!"
 toast_job_same = "作业名称重复，请重新修改"
-#作业发布中toast
+#作业发布中toast/发布成功toast
 toast_pubing = ["已提交发布请求,请稍后...","发布成功"]
 #发布成功toast
 toast_pub_success = "发布成功"
 #取消发布成功toast
 toast_pub_cancel = "取消发布成功"
+#映射保存失败
+toast_faile="映射保存失败：保存映射，更新源信息失败：10786"
 #重复发布tosat
 toast_pub_re = "该作业已经发布，请取消发布之后在发布."
 
@@ -52,7 +54,9 @@ target_data ={
     "db_name":"echod"
 }
 
-
+sql_delete_t2='DELETE FROM AUTO_test_02'
+select_table_1='select * from AUTO_test_01'
+select_table_2='select * from AUTO_test_02'
 #新建工作流名字
 work_flow_name = "test_work_flow_01"
 #工作流名称重复

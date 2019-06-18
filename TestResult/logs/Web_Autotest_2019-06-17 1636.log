@@ -1,0 +1,21 @@
+Mon, 17 Jun 2019 16:36:14-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//input[@id="name"]')
+Mon, 17 Jun 2019 16:36:14-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.03：以秒为单位
+Mon, 17 Jun 2019 16:36:14-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="name"]')
+Mon, 17 Jun 2019 16:36:14-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="name"]')中输入文本：auto_test_2
+Mon, 17 Jun 2019 16:36:15-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//input[@id="inputPassword"]')
+Mon, 17 Jun 2019 16:36:15-INFO-BasePage.py-input_text-[line:58]None：在元素('xpath', '//input[@id="inputPassword"]')中输入文本：123456
+Mon, 17 Jun 2019 16:36:15-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//a[@id="login"]')
+Mon, 17 Jun 2019 16:36:15-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//a[@id="login"]')点击事件
+Mon, 17 Jun 2019 16:36:18-INFO-BasePage.py-switch_alert-[line:179]未弹出alert
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.04：以秒为单位
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//ul[@id="treeDemo"]//span[text()="not_delete_mysql"]')点击事件
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.05：以秒为单位
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="发布"]')
+Mon, 17 Jun 2019 16:36:21-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="发布"]')点击事件
+Mon, 17 Jun 2019 16:36:23-INFO-BasePage.py-wait_eleVisible-[line:32]None：等待元素可见：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 16:36:23-INFO-BasePage.py-wait_eleVisible-[line:37]等待时长0.02：以秒为单位
+Mon, 17 Jun 2019 16:36:23-INFO-BasePage.py-get_Element-[line:45]None：查找元素：('xpath', '//span[text()="本地运行"]')
+Mon, 17 Jun 2019 16:36:23-INFO-BasePage.py-click_element-[line:85]None:元素：('xpath', '//span[text()="本地运行"]')点击事件
